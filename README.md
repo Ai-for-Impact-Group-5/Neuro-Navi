@@ -16,4 +16,6 @@ Personalizing Guidance: Using Distance Vector and Random Forest ML models to sug
 
 Analyzing Skill Gaps: Identifying missing competencies and offering targeted learning paths.
 
+Real-Time Insights: Integrating up-to-date job trends and requirements through Glassdoor and Indeed APIs.
+
 

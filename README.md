@@ -17,7 +17,13 @@ The system addresses key challenges by:
 
     Analyzing Skill Gaps: Identifying missing competencies and offering targeted learning paths.
 
+    
+
     Real-Time Insights: Integrating up-to-date job trends and requirements through Glassdoor and Indeed APIs.
 
+    
+
     Automating Career Docs: Generating resumes, cover letters, and interview prep materials tailored to each user.
+
+    Scalable Architecture: Built on a robust stack including Next.js, PostgreSQL (Neon cloud), Python, and Clerk Authentication, ensuring a secure and user-friendly experience.
     

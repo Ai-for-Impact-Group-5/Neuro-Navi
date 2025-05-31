@@ -142,6 +142,9 @@ http://localhost:3000
 Your Neuro Navi career guidance platform is now up and running! 🎉
 -
 
+![WhatsApp Image 2025-05-31 at 16 53 51_678daba4](https://github.com/user-attachments/assets/d487524b-ed7f-40c5-94f6-590b17935a36)
+
+
 
 
 

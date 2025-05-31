@@ -12,18 +12,4 @@ Solution Overview
 Neuro Navi is an AI-powered career guidance system designed to provide personalized, data-driven career support. It leverages machine learning models, real-time job market integrations (Glassdoor, Indeed), and NLP APIs (Gemini) to deliver tailored career recommendations . 
 
 The system addresses key challenges by:
-
-    Personalizing Guidance: Using Distance Vector and Random Forest ML models to suggest optimal career paths based on user profiles.
-
-    Analyzing Skill Gaps: Identifying missing competencies and offering targeted learning paths.
-
-    
-
-    Real-Time Insights: Integrating up-to-date job trends and requirements through Glassdoor and Indeed APIs.
-
-    
-
-    Automating Career Docs: Generating resumes, cover letters, and interview prep materials tailored to each user.
-
-    Scalable Architecture: Built on a robust stack including Next.js, PostgreSQL (Neon cloud), Python, and Clerk Authentication, ensuring a secure and user-friendly experience.
-    
+Personalizing Guidance: Using Distance Vector and Random Forest ML models to suggest optimal career paths based on user profiles.

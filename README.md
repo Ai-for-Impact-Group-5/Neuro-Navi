@@ -9,6 +9,8 @@ Traditional career counseling methods often lack personalization, scalability, a
 
 ---
 Solution Overview
+
+
 Neuro Navi is an AI-powered career guidance system designed to provide personalized, data-driven career support. It leverages machine learning models, real-time job market integrations (Glassdoor, Indeed), and NLP APIs (Gemini) to deliver tailored career recommendations . 
 
 The system addresses key challenges by:

@@ -58,35 +58,45 @@ Neuro Navi is an intelligent, end-to-end AI-Based Career Guidance System that tr
 
 🚀 Core Features
 -
+| Feature                                | Description                                                                                             |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 🎯 **AI Career Predictions**           | Suggests optimal career paths using Distance Vector and Random Forest ML models.                        |
+| 🧠 **Skill Gap Analysis**              | Detects missing skills compared to market demands and helps users bridge the gap.                       |
+| 📚 **Personalized Learning Paths**     | Recommends tailored courses and certifications to enhance career readiness.                             |
+| 🌐 **Real-Time Job Market Insights**   | Live integrations with Glassdoor and Indeed to fetch up-to-date job trends, salaries, and skill demand. |
+| 📝 **Resume & Cover Letter Generator** | Auto-generates professional documents personalized to user profiles and targeted roles.                 |
+| 🗣️ **Interview Prep Tools**           | Offers mock questions, tips, and simulations for interview readiness.                                   |
+| 🧪 **Quiz Generator with Analytics**   | Analyzes user interests and aptitude to further refine recommendations.                                 |
+| 🔐 **Secure User Auth**                | User authentication powered by Clerk for privacy and data safety.                                       |
 
-Feature	Description
-🎯 AI Career Predictions	Suggests optimal career paths using Distance Vector and Random Forest ML models.
-🧠 Skill Gap Analysis	Detects missing skills compared to market demands and helps users bridge the gap.
-📚 Personalized Learning Paths	Recommends tailored courses and certifications to enhance career readiness.
-🌐 Real-Time Job Market Insights	Live integrations with Glassdoor and Indeed to fetch up-to-date job trends, salaries, and skill demand.
-📝 Resume & Cover Letter Generator	Auto-generates professional documents personalized to user profiles and targeted roles.
-🗣️ Interview Prep Tools	Offers mock questions, tips, and simulations for interview readiness.
-🧪 Quiz Generator with Analytics	Analyzes user interests and aptitude to further refine recommendations.
-🔐 Secure User Auth	User authentication powered by Clerk for privacy and data safety.
 
 🌟 What Sets Neuro Navi Apart?
 -
 USP	Why It Matters
 🧩 Complete Career Ecosystem	From assessment to job prep — all in one seamless platform.
+
+
 🧠 AI + Real-Time Data Fusion	Combines machine learning with real-world market data for ultra-relevant suggestions.
+
+
 🛠️ Hyper-Personalized Guidance	Every recommendation is data-driven and uniquely tailored to the user.
+
 ☁️ Cloud-Native & Scalable	Built using Next.js and Neon PostgreSQL for modern, scalable deployment.
+
 🧑‍💼 For Students & Professionals	A universal tool usable across career stages and industries.
+
 🌍 Future-Ready: Multilingual & Agentic AI	Roadmap includes multilingual support and smart AI agents for autonomous mentoring.
 
 ---
 🔌 APIs & Integrations Used
 -
-API / Service	Purpose
-🔍 Glassdoor API	Fetches real-time job trends, salary data, and company reviews for market insights.
-💼 Indeed API	Supplies up-to-date job listings, role descriptions, and skill requirements.
-🧠 Gemini API (AI/NLP)	Powers advanced natural language processing for resume generation, cover letters, and personalized suggestions.
-🔐 Clerk Authentication	Provides secure, modern user authentication and session management.
-📊 Custom ML Models (Distance Vector + Random Forest)	Internally developed APIs used to generate career predictions and skill gap assessments.
+| API / Service                                             | Purpose                                                                                                         |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 🔍 **Glassdoor API**                                      | Fetches real-time job trends, salary data, and company reviews for market insights.                             |
+| 💼 **Indeed API**                                         | Supplies up-to-date job listings, role descriptions, and skill requirements.                                    |
+| 🧠 **Gemini API (AI/NLP)**                                | Powers advanced natural language processing for resume generation, cover letters, and personalized suggestions. |
+| 🔐 **Clerk Authentication**                               | Provides secure, modern user authentication and session management.                                             |
+| 📊 **Custom ML Models (Distance Vector + Random Forest)** | Internally developed APIs used to generate career predictions and skill gap assessments.                        |
+
 
 

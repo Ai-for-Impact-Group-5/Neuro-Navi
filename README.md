@@ -26,19 +26,15 @@ Traditional career counseling often falls short in addressing the unique needs o
 💡 How Neuro Navi Solves the Problem:
 -
 🎯 Personalized Career Guidance
--
 Uses ML algorithms (Distance Vector & Random Forest) to recommend optimal career paths based on user skills, interests, and goals.
 
 🧠 Skill Gap Analysis
--
 Compares user profiles with industry standards to identify missing competencies and suggests learning resources to close the gap.
 
 🌐 Real-Time Job Market Insights
--
 Integrates APIs from Glassdoor and Indeed to deliver current job trends, in-demand roles, salary benchmarks, and skill requirements.
 
 📝 Automated Career Document Generation
--
 Generates professional resumes, cover letters, and interview preparation content tailored to each user.
 
 ---
@@ -93,53 +89,31 @@ USP	Why It Matters
 ---
 ⚙️ Installation & Setup
 -
-Set up Neuro Navi on your local machine by following these steps:
-
 🔗 1. Clone the Repository
-         git clone https://github.com/your-username/neuro-navi.git
-cd neuro-navi
+ ![Screenshot 2025-05-31 180636](https://github.com/user-attachments/assets/936d21a0-4e71-4595-a7fa-647293dd7405)
 
 📦 2. Install Frontend & Backend Dependencies
-
-npm install
-# or
-yarn install
+![Screenshot 2025-05-31 180724](https://github.com/user-attachments/assets/9d1fe3d0-a5e1-47a5-999e-233df1f5ab1f)
 
 🧠 3. Set Up Python Environment (For ML Engine)
+![Screenshot 2025-05-31 180811](https://github.com/user-attachments/assets/408bc92b-ab18-4525-a68b-c8d05a95a867)
 
-cd ml  # Go to the ML directory (if applicable)
-
-# Create and activate virtual environment
-python -m venv venv
-source venv/bin/activate   # Windows: venv\Scripts\activate
-
-# Install required Python packages
-pip install -r requirements.txt
-
-
-🔐 4. Configure Environment Variables
-
-Create a .env.local file in the root directory and add:
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
-CLERK_SECRET_KEY=your_clerk_secret_key
-DATABASE_URL=your_postgresql_neon_url
-GLASSDOOR_API_KEY=your_glassdoor_api_key
-INDEED_API_KEY=your_indeed_api_key
-GEMINI_API_KEY=your_gemini_api_key
-
+🔐 4. Configure Environment Variables:-
+Create a .env.local file in the root directory and add the following:
+![Screenshot 2025-05-31 180851](https://github.com/user-attachments/assets/9ac40536-3a0b-4c33-8e31-b124c4a00be0)
 
 🚀 5. Start the Application
--
-Run the Next.js Dev Server
-
-npm run dev
-# or
-yarn dev
+![Screenshot 2025-05-31 180925](https://github.com/user-attachments/assets/b47c6ca6-33cd-49bd-b53c-330cced91c4b)
 
 🌐 6. Open in Browser
 
-http://localhost:3000
+Open your browser and go to:
+![Screenshot 2025-05-31 180958](https://github.com/user-attachments/assets/9957188e-e24e-4eb3-8dd6-a8fa9e37edcd)
+
+
+
+
+
 
 Your Neuro Navi career guidance platform is now up and running! 🎉
 -
@@ -189,6 +163,7 @@ Pipeline
 Project Demo 
 -
 https://drive.google.com/drive/folders/1UZZLtJMCxjbeM80Te-9FymjtSNdfoZxV?usp=sharing
+
 
 
 

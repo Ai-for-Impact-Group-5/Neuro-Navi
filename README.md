@@ -99,6 +99,50 @@ Set up Neuro Navi on your local machine by following these steps:
          git clone https://github.com/your-username/neuro-navi.git
 cd neuro-navi
 
+📦 2. Install Frontend & Backend Dependencies
+
+npm install
+# or
+yarn install
+
+🧠 3. Set Up Python Environment (For ML Engine)
+
+cd ml  # Go to the ML directory (if applicable)
+
+# Create and activate virtual environment
+python -m venv venv
+source venv/bin/activate   # Windows: venv\Scripts\activate
+
+# Install required Python packages
+pip install -r requirements.txt
+
+
+🔐 4. Configure Environment Variables
+
+Create a .env.local file in the root directory and add:
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+CLERK_SECRET_KEY=your_clerk_secret_key
+DATABASE_URL=your_postgresql_neon_url
+GLASSDOOR_API_KEY=your_glassdoor_api_key
+INDEED_API_KEY=your_indeed_api_key
+GEMINI_API_KEY=your_gemini_api_key
+
+🚀 5. Start the Application
+Run the Next.js Dev Server
+
+npm run dev
+# or
+yarn dev
+
+🌐 6. Open in Browser
+
+http://localhost:3000
+
+Your Neuro Navi career guidance platform is now up and running! 🎉
+-
+
+
 
 
 

@@ -188,7 +188,7 @@ Pipeline
 
 Project Demo 
 -
-https://drive.google.com/drive/folders/1UZZLtJMCxjbeM80Te-9FymjtSNdfoZxV?usp=sharing
+https://drive.google.com/file/d/1kOOcIeagrr-8AoRyApOC0RdJ3-_NoaRr/view?usp=drive_link
 
 
 

@@ -21,15 +21,7 @@ Traditional career counseling often falls short in addressing the unique needs o
 
  📄 Career Prep Gaps – Inadequate support for essential job-readiness components like resume building, cover letters, and interview preparation.
 
- 
- 
-
----
-🛠️ Solution Overview
--
-
-Neuro Navi is an AI-powered career guidance system that delivers personalized, data-driven career support to students and professionals. By combining machine learning, real-time job market data, and intelligent document automation, it revolutionizes the way users plan and pursue their career paths.
-
+ ---
 
 💡 How Neuro Navi Solves the Problem:
 -
@@ -97,6 +89,16 @@ USP	Why It Matters
 | 🧠 **Gemini API (AI/NLP)**                                | Powers advanced natural language processing for resume generation, cover letters, and personalized suggestions. |
 | 🔐 **Clerk Authentication**                               | Provides secure, modern user authentication and session management.                                             |
 | 📊 **Custom ML Models (Distance Vector + Random Forest)** | Internally developed APIs used to generate career predictions and skill gap assessments.                        |
+
+---
+⚙️ Installation & Setup
+-
+Set up Neuro Navi on your local machine by following these steps:
+
+🔗 1. Clone the Repository
+         git clone https://github.com/your-username/neuro-navi.git
+cd neuro-navi
+
 
 
 

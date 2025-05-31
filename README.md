@@ -87,6 +87,10 @@ USP	Why It Matters
 | 📊 **Custom ML Models (Distance Vector + Random Forest)** | Internally developed APIs used to generate career predictions and skill gap assessments.                        |
 
 ---
+🗂️ Project Structure
+-
+![Screenshot 2025-05-31 181603](https://github.com/user-attachments/assets/63ceaeea-809c-4ace-936b-0d22b126c5b5)
+
 ⚙️ Installation & Setup
 -
 🔗 1. Clone the Repository

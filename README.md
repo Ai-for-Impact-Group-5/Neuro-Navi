@@ -13,3 +13,7 @@ Neuro Navi is an AI-powered career guidance system designed to provide personali
 
 The system addresses key challenges by:
 Personalizing Guidance: Using Distance Vector and Random Forest ML models to suggest optimal career paths based on user profiles.
+
+Analyzing Skill Gaps: Identifying missing competencies and offering targeted learning paths.
+
+

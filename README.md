@@ -128,7 +128,9 @@ GLASSDOOR_API_KEY=your_glassdoor_api_key
 INDEED_API_KEY=your_indeed_api_key
 GEMINI_API_KEY=your_gemini_api_key
 
+
 🚀 5. Start the Application
+-
 Run the Next.js Dev Server
 
 npm run dev
@@ -143,6 +145,50 @@ Your Neuro Navi career guidance platform is now up and running! 🎉
 -
 
 ![WhatsApp Image 2025-05-31 at 16 53 51_678daba4](https://github.com/user-attachments/assets/d487524b-ed7f-40c5-94f6-590b17935a36)
+
+Landing Page 1 
+ -
+![landing page 1](https://github.com/user-attachments/assets/28c1ca22-656c-4492-9c8f-fe7e6fad3320)
+
+Landing Page 2
+-
+![lp2](https://github.com/user-attachments/assets/ec9930e2-5ea8-4f20-b35f-15648b96ecb0)
+
+Landing Page 3
+-
+![lp3](https://github.com/user-attachments/assets/f2b64705-8565-4319-93e3-78ba5a1fcf44)
+
+Landing Page 4
+-
+![lp4](https://github.com/user-attachments/assets/3d688743-2fc1-453f-8db4-6f4345b1e58f)
+
+Landing Page 5 
+-
+![lp5](https://github.com/user-attachments/assets/7c35a952-cab5-488c-b9b9-d5f8c29fda54)
+
+Interview Preparation 
+-
+![interview prep](https://github.com/user-attachments/assets/800907ee-7ecf-43c7-883c-7ae0d9f53216)
+
+Industry Insights
+-
+![industry i](https://github.com/user-attachments/assets/93c5a4ff-9ad8-4f75-bf98-e6bcde5ebece)
+
+Resume Builder
+-
+![rb](https://github.com/user-attachments/assets/f5a34518-23f1-4863-b8be-97c504be9173)
+
+Cover Letter Generator 
+-
+![clg](https://github.com/user-attachments/assets/0357a603-d8cb-4604-8344-30c092e65085)
+
+Pipeline
+-
+![pipeline output](https://github.com/user-attachments/assets/18fa7513-f831-415f-9985-93c3234b6684)
+
+Project Demo 
+-
+https://drive.google.com/drive/folders/1UZZLtJMCxjbeM80Te-9FymjtSNdfoZxV?usp=sharing
 
 
 

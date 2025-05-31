@@ -90,24 +90,46 @@ USP	Why It Matters
 ⚙️ Installation & Setup
 -
 🔗 1. Clone the Repository
+
+
  ![Screenshot 2025-05-31 180636](https://github.com/user-attachments/assets/936d21a0-4e71-4595-a7fa-647293dd7405)
 
+ 
+
 📦 2. Install Frontend & Backend Dependencies
+
+
 ![Screenshot 2025-05-31 180724](https://github.com/user-attachments/assets/9d1fe3d0-a5e1-47a5-999e-233df1f5ab1f)
 
+
+
 🧠 3. Set Up Python Environment (For ML Engine)
+
+
 ![Screenshot 2025-05-31 180811](https://github.com/user-attachments/assets/408bc92b-ab18-4525-a68b-c8d05a95a867)
+
+
 
 🔐 4. Configure Environment Variables:-
 Create a .env.local file in the root directory and add the following:
+
+
 ![Screenshot 2025-05-31 180851](https://github.com/user-attachments/assets/9ac40536-3a0b-4c33-8e31-b124c4a00be0)
 
+
+
+
+
 🚀 5. Start the Application
+
+
 ![Screenshot 2025-05-31 180925](https://github.com/user-attachments/assets/b47c6ca6-33cd-49bd-b53c-330cced91c4b)
 
 🌐 6. Open in Browser
 
 Open your browser and go to:
+
+
 ![Screenshot 2025-05-31 180958](https://github.com/user-attachments/assets/9957188e-e24e-4eb3-8dd6-a8fa9e37edcd)
 
 
